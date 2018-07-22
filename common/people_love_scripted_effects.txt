@@ -1,0 +1,91 @@
+#Add to scripted triggers if more levels of hyper inflation is added
+SKY_people_love_clear_all = {
+	remove_ideas = {
+		SKY_people_love_1
+		SKY_people_love_2
+		SKY_people_love_3
+		SKY_people_love_4
+		SKY_people_love_5
+	}
+}
+
+#Important to put HIGHEST first
+SKY_people_love_level_up = {
+	custom_effect_tooltip = SKY_people_love_tt
+	if = {
+		limit = { has_idea = SKY_people_love_4 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_4
+			add_idea = SKY_people_love_5
+		}
+	}
+	else_if = {
+		limit = { has_idea = SKY_people_love_3 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_3
+			add_idea = SKY_people_love_4
+		}
+	}
+	else_if = {
+		limit = { has_idea = SKY_people_love_2 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_2
+			add_idea = SKY_people_love_3
+		}
+	}
+	else_if = {
+		limit = { has_idea = SKY_people_love_1 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_1
+			add_idea = SKY_people_love_2
+		}		
+	}
+	else_if = {
+		limit = { NOT = { has_idea = SKY_people_love_1 } }
+		add_ideas =SKY_people_love_1
+	}
+}
+
+#Important to put LOWEST first
+SKY_people_love_level_down = {
+custom_effect_tooltip = SKY_people_love_down_tt
+	if = {
+		limit = { has_idea = SKY_people_love_1 }
+		#Makes the tooltip clearer if player looks at the effect early in the game
+		effect_tooltip = {
+			swap_ideas = {
+				remove_idea = SKY_people_love_1
+				add_idea = SKY_people_love_none
+			}
+		}
+		hidden_effect = { remove_ideas = SKY_people_love_1 }
+	}
+	if = {
+		limit = { has_idea = SKY_people_love_2 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_2
+			add_idea = SKY_people_love_1
+		}
+	}
+	if = {
+		limit = { has_idea = SKY_people_love_3 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_3
+			add_idea = SKY_people_love_2
+		}
+	}
+	if = {
+		limit = { has_idea = SKY_people_love_4 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_4
+			add_idea = SKY_people_love_3
+		}
+	}
+	if = {
+		limit = { has_idea = SKY_people_love_5 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_5
+			add_idea = SKY_people_love_4
+		}
+	}
+}
