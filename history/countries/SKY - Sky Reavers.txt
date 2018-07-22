@@ -25,7 +25,7 @@ set_politics = {
 add_ideas = { 
 	gang_grip_3
 	people_love_3
-	abroad_support_3
+	support_abroad_3
 
 }
 
