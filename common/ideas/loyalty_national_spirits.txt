@@ -1,0 +1,308 @@
+ ideas = {
+	country = {
+        SKY_gang_grip_1 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+                     war_support_factor = -0.50
+                     justify_war_goal_time = 1
+					 conscription_factor = -0.5
+					 army_attack_factor = -0.25
+				} 
+        }
+		SKY_gang_grip_2 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+                     war_support_factor = -0.25
+                     justify_war_goal_time = 0.5
+					 conscription_factor = -0.25
+					 army_attack_factor = -0.125
+				} 
+        }
+		SKY_gang_grip_3 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+			} 
+        }
+		SKY_gang_grip_4 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+                     war_support_factor = 0.25
+                     justify_war_goal_time = -0.5
+					 conscription_factor = 0.25
+					 army_attack_factor = 0.125
+			} 
+        }
+		SKY_gang_grip_5 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+                     war_support_factor = 0.50
+                     justify_war_goal_time = -0.75
+					 conscription_factor = 0.5
+					 army_attack_factor = 0.25
+				} 
+        }
+		SKY_people_love_1 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+                     stability_factor = -0.50
+                     political_power_factor = -0.5
+					 production_speed_buildings_factor = -0.5
+					 non_core_manpower = -1
+				} 
+        }
+		SKY_people_love_2 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+                     stability_factor = -0.25
+                     political_power_factor = -0.25
+					 production_speed_buildings_factor = -0.25
+					 non_core_manpower = -0.5
+				} 
+        }
+		SKY_people_love_3 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+				} 
+        }
+		SKY_people_love_4 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+                     stability_factor = 0.25
+                     political_power_factor = 0.25
+					 production_speed_buildings_factor = 0.25
+					 non_core_manpower = 0.5
+				} 
+        }
+		SKY_people_love_5 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+                     stability_factor = 0.50
+                     political_power_factor = 0.5
+					 production_speed_buildings_factor = 0.5
+					 non_core_manpower = 1
+				} 
+        }
+		SKY_support_abroad_1 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+                     consumer_goods_factor = 0.1
+                     trade_opinion_factor = -1
+					 research_time_factor = 0.1
+					 enemy_justify_war_goal_time = -1
+				} 
+        }
+		SKY_support_abroad_2 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+                     consumer_goods_factor = 0.05
+                     trade_opinion_factor = -0.5
+					 research_time_factor = 0.05
+					 enemy_justify_war_goal_time = -0.5
+				} 
+        }
+		SKY_support_abroad_3 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+				} 
+        }
+		SKY_support_abroad_4 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+                     consumer_goods_factor = -0.05
+                     trade_opinion_factor = 0.5
+					 research_time_factor = -0.05
+					 enemy_justify_war_goal_time = 0.5
+				} 
+        }
+		SKY_support_abroad_5 = {
+
+               picture = socialist_science_focus
+
+               allowed = { 
+                    always = no 
+                }
+
+               allowed_civil_war = { 
+                    always = yes
+                }
+
+               removal_cost = -1
+
+               modifier = { 
+                     consumer_goods_factor = -0.1
+                     trade_opinion_factor = 1
+					 research_time_factor = -0.1
+					 enemy_justify_war_goal_time = 1
+				} 
+        }
+    }
+	
+}
