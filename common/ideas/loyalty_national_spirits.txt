@@ -2,7 +2,7 @@
 	country = {
         SKY_gang_grip_1 = {
 
-               picture = socialist_science_focus
+               picture = griponthegangopenrevolt
 
                allowed = { 
                     always = no 
@@ -23,7 +23,7 @@
         }
 		SKY_gang_grip_2 = {
 
-               picture = socialist_science_focus
+               picture = griponthegangrestless
 
                allowed = { 
                     always = no 
@@ -44,7 +44,7 @@
         }
 		SKY_gang_grip_3 = {
 
-               picture = socialist_science_focus
+               picture = griponthegangsated
 
                allowed = { 
                     always = no 
@@ -61,7 +61,7 @@
         }
 		SKY_gang_grip_4 = {
 
-               picture = socialist_science_focus
+               picture = griponthegangexcitable
 
                allowed = { 
                     always = no 
@@ -82,7 +82,7 @@
         }
 		SKY_gang_grip_5 = {
 
-               picture = socialist_science_focus
+               picture = griponthegangrabiddogs
 
                allowed = { 
                     always = no 
@@ -103,7 +103,7 @@
         }
 		SKY_people_love_1 = {
 
-               picture = socialist_science_focus
+               picture = loveofthepeopletinpotdictator
 
                allowed = { 
                     always = no 
@@ -124,8 +124,8 @@
         }
 		SKY_people_love_2 = {
 
-               picture = socialist_science_focus
-
+               picture = loveofthepeoplefrightened
+	       
                allowed = { 
                     always = no 
                 }
@@ -145,7 +145,7 @@
         }
 		SKY_people_love_3 = {
 
-               picture = socialist_science_focus
+               picture = loveofthepeoplestable
 
                allowed = { 
                     always = no 
@@ -162,7 +162,7 @@
         }
 		SKY_people_love_4 = {
 
-               picture = socialist_science_focus
+               picture = loveofthepeoplesafeandsound
 
                allowed = { 
                     always = no 
@@ -183,7 +183,7 @@
         }
 		SKY_people_love_5 = {
 
-               picture = socialist_science_focus
+               picture = loveofthepeopleadorationandworship
 
                allowed = { 
                     always = no 
@@ -204,7 +204,7 @@
         }
 		SKY_support_abroad_1 = {
 
-               picture = socialist_science_focus
+               picture = supportfromabroadpariahstate
 
                allowed = { 
                     always = no 
@@ -225,7 +225,7 @@
         }
 		SKY_support_abroad_2 = {
 
-               picture = socialist_science_focus
+               picture = supportfromabroadbarbarians
 
                allowed = { 
                     always = no 
@@ -246,7 +246,7 @@
         }
 		SKY_support_abroad_3 = {
 
-               picture = socialist_science_focus
+               picture = supportfromaborad
 
                allowed = { 
                     always = no 
@@ -263,7 +263,7 @@
         }
 		SKY_support_abroad_4 = {
 
-               picture = socialist_science_focus
+               picture = supportfromabroadtrustworthy
 
                allowed = { 
                     always = no 
@@ -284,7 +284,7 @@
         }
 		SKY_support_abroad_5 = {
 
-               picture = socialist_science_focus
+               picture = supportfromabroadcrowdpleaser
 
                allowed = { 
                     always = no 
