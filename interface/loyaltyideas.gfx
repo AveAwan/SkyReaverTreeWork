@@ -16,8 +16,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/griponthegangrestless.dds"
 	}
 		spriteType = {
-		name = "GFX_idea_griponthegang3"
-		texturefile = "gfx/interface/ideas/griponthegang3.dds"
+		name = "GFX_idea_griponthegangsated"
+		texturefile = "gfx/interface/ideas/griponthegangsated.dds"
 	}	
 			spriteType = {
 		name = "GFX_idea_loveofthepeopleadorationandworship"
