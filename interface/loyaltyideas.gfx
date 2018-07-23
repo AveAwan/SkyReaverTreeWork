@@ -1,0 +1,62 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_idea_griponthegangexcitable"
+		texturefile = "gfx/interface/ideas/griponthegangexcitable.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_griponthegangopenrevolt"
+		texturefile = "gfx/interface/ideas/griponthegangopenrevolt.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_griponthegangrabiddogs"
+		texturefile = "gfx/interface/ideas/griponthegangrabiddogs.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_griponthegangrestless"
+		texturefile = "gfx/interface/ideas/griponthegangrestless.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_griponthegang3"
+		texturefile = "gfx/interface/ideas/griponthegang3.dds"
+	}	
+			spriteType = {
+		name = "GFX_idea_loveofthepeopleadorationandworship"
+		texturefile = "gfx/interface/ideas/loveofthepeopleadorationandworship.dds"
+	}
+			spriteType = {
+		name = "GFX_idea_loveofthepeoplefrightened"
+		texturefile = "gfx/interface/ideas/loveofthepeoplefrightened.dds"
+	}
+				spriteType = {
+		name = "GFX_idea_loveofthepeopletinpotdictator"
+		texturefile = "gfx/interface/ideas/loveofthepeopletinpotdictator.dds"
+	}
+			spriteType = {
+		name = "GFX_idea_loveofthepeoplesafeandsound"
+		texturefile = "gfx/interface/ideas/loveofthepeoplesafeandsound.dds"
+	}
+				spriteType = {
+		name = "GFX_idea_loveofthepeoplestable"
+		texturefile = "gfx/interface/ideas/loveofthepeoplestable.dds"
+	}
+			spriteType = {
+		name = "GFX_idea_supportfromabroadcrowdbarbarians"
+		texturefile = "gfx/interface/ideas/supportfromabroadcrowdbarbarians.dds"
+	}
+				spriteType = {
+		name = "GFX_idea_supportfromaborad"
+		texturefile = "gfx/interface/ideas/supportfromaborad.dds"
+	}
+			spriteType = {
+		name = "GFX_idea_supportfromabroadcrowdpariahstate"
+		texturefile = "gfx/interface/ideas/supportfromabroadcrowdpariahstate.dds"
+	}
+				spriteType = {
+		name = "GFX_idea_supportfromabroadcrowdpleaser"
+		texturefile = "gfx/interface/ideas/supportfromabroadcrowdpleaser.dds"
+	}
+			spriteType = {
+		name = "GFX_idea_supportfromabroadtrustworthy"
+		texturefile = "gfx/interface/ideas/supportfromabroadtrustworthy.dds"
+	}
+}
