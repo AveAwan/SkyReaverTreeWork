@@ -107,6 +107,8 @@ country_event = {
 		option = {
     name = sky_raider.1.a
 	add_ideas = raideryes
+	SKY_support_abroad_level_down
+	SKY_gang_grip_level_up
 	NCR = {
 	country_event = { id = sky_events.11 days = 7 }
 	}
@@ -119,7 +121,9 @@ country_event = {
 	}
 		option = {
     name = sky_raider.1.b
-	add_ideas = raiderno	
+	add_ideas = raiderno
+	SKY_support_abroad_level_up
+	SKY_gang_grip_level_down
 	NCR = {
 	country_event = { id = sky_events.12 days = 7 }
 	}
@@ -141,6 +145,8 @@ country_event = {
 		option = {
     name = sky_raider.2.a
 	add_ideas = raidercamps
+	SKY_support_abroad_level_down
+	SKY_gang_grip_level_up
 	NCR = {
 	country_event = { id = sky_events.13 days = 7 }
 	}
@@ -153,6 +159,8 @@ country_event = {
 	}
 		option = {
     name = sky_raider.2.b
+    SKY_support_abroad_level_up
+	SKY_gang_grip_level_down
 	add_ideas =	guidingcamps
 	NCR = {
 	country_event = { id = sky_events.14 days = 7 }
@@ -175,6 +183,8 @@ country_event = {
 		option = {
     name = sky_raider.3.a
 	add_ideas = slavemarkets
+	SKY_people_love_level_down
+	SKY_gang_grip_level_up
 	NCR = {
 	country_event = { id = sky_events.15 days = 7 }
 	}
@@ -188,6 +198,8 @@ country_event = {
 		option = {
     name = sky_raider.3.b
 	add_ideas =	noslavemarkets
+	SKY_people_love_level_up
+	SKY_gang_grip_level_down
 	add_manpower = 500
 	NCR = {
 	country_event = { id = sky_events.16 days = 7 }
