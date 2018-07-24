@@ -23,9 +23,9 @@ set_politics = {
 }
 
 add_ideas = { 
-	gang_grip_3
-	people_love_3
-	support_abroad_3
+	SKY_gang_grip_3
+	SKY_people_love_3
+	SKY_support_abroad_3
 
 }
 
