@@ -23,18 +23,12 @@ joker_captain:0 "Krono's Left Hand Man"
 ruthless_manipulator:0 "Ruthless Manipulator"
 
 ############################## Loyalty #####################################
-SKY_people_love_tt:0 "This will please the population that lives in your territory.
-"
-SKY_people_love_down_tt:0 "This will cause discontent among the populace.
-"
-SKY_gang_grip_down_tt:0 "The Reavers will grow restless over this.
-"
-SKY_gang_grip_tt:0 "The Reavers grow ravenous and flex their jaws at this prospect.
-"
-SKY_support_abroad_down_tt:0 "Your actions are being judged by your international peers; this will not please them.
-"
-SKY_support_abroad_tt:0 "This will reflect positively on your government to the world at large.
-"
+SKY_people_love_tt:0 "This will please the population that lives in your territory."
+SKY_people_love_down_tt:0 "This will cause discontent among the populace."
+SKY_gang_grip_down_tt:0 "The Reavers will grow restless over this."
+SKY_gang_grip_tt:0 "The Reavers grow ravenous and flex their jaws at this prospect."
+SKY_support_abroad_down_tt:0 "Your actions are being judged by your international peers; this will not please them."
+SKY_support_abroad_tt:0 "This will reflect positively on your government to the world at large."
 SKY_gang_grip_1:0 "Grip on the Gang - Open Revolt"
 SKY_gang_grip_1_desc:0 "The Gang has completely lost faith in you and your ability to lead them; they've grown restless, bored and tired, and refuse to fight on your behalf."
 SKY_gang_grip_2:0 "Grip on the Gang - Restless"
