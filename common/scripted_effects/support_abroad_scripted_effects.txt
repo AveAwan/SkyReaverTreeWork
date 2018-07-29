@@ -60,7 +60,7 @@ custom_effect_tooltip = SKY_support_abroad_down_tt
 		limit = { has_idea = SKY_support_abroad_1 }
 		swap_ideas = {
 			remove_idea = SKY_support_abroad_1
-			add_idea = SKY_support_abroad_none
+			add_idea = SKY_support_abroad_1
 		}
 	}
 	if = {
