@@ -13,9 +13,16 @@ division_template = {
 	regiments = {
 		infantry = { x = 0 y = 0 }
 		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
 		infantry = { x = 1 y = 0 }
 		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
 		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+	support = {
+		explosive_company = { x = 0 y = 0 }
 	}
 }
 
@@ -24,11 +31,18 @@ units = {
 		name = "'51a' Battlegroup"
 		location = 8855
 		division_template = "Reavers"
-		start_experience_factor = 0.85
+		start_experience_factor = 1.0
 		start_equipment_factor = 1.0
 	}
 	division {
-		name = "'6' Battlegroup"
+		name = "'6a' Battlegroup"
+		location = 8871
+		division_template = "Reavers"
+		start_experience_factor = 1.0
+		start_equipment_factor = 1.0
+	}
+	division {
+		name = "'6b' Battlegroup"
 		location = 8871
 		division_template = "Reavers"
 		start_experience_factor = 0.7
