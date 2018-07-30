@@ -120,7 +120,6 @@ default = no
 		y = 5
 			available_if_capitulated = yes
 			completion_reward = {
-			SKY_people_love_level_up
 			201 = {
 				add_building_construction = {
 					type = infrastructure
@@ -148,7 +147,6 @@ default = no
 		y = 6
 			available_if_capitulated = yes
 			completion_reward = {
-				SKY_people_love_level_up
 				add_political_power=-50
 				add_ideas=economy
 					}
@@ -168,7 +166,6 @@ default = no
 		y = 7
 			available_if_capitulated = yes
 			completion_reward = {
-					SKY_people_love_level_up
 					add_ideas=loyalty
 					}
 
@@ -184,7 +181,6 @@ default = no
 		y = 4
 			available_if_capitulated = yes
 			completion_reward = {
-			SKY_people_love_level_up
 					201 = {
 							limit = {
 									free_building_slots = {
@@ -309,7 +305,6 @@ default = no
 			completion_reward = {
 			add_political_power = -50
 					VEG = {
-					SKY_support_abroad_level_up
 					add_opinion_modifier = { target = SKY modifier = medium_increase }
 				}
 			}
@@ -344,7 +339,6 @@ default = no
 			completion_reward = {
 			add_political_power = -50
 					DES = {
-					SKY_support_abroad_level_up
 					add_opinion_modifier = { target = SKY modifier = medium_increase }
 				}
 			}
@@ -426,8 +420,6 @@ default = no
 		y = 6
 			available_if_capitulated = yes
 			completion_reward = {
-			SKY_people_love_level_up
-			SKY_support_abroad_level_up
 				187 = {
 					add_building_construction = {
 						type = infrastructure
@@ -472,7 +464,6 @@ default = no
 			available_if_capitulated = yes
 			completion_reward = {
 			NCR = {
-			SKY_support_abroad_level_up
 				country_event = { id = sky_events.8 days = 2 }
 				custom_effect_tooltip = needs_approval
 					}
@@ -635,8 +626,6 @@ default = no
 		y = 6
 			available_if_capitulated = yes
 			completion_reward = {
-			SKY_people_love_level_up
-			SKY_support_abroad_level_up
 				463 = {
 					add_building_construction = {
 						type = infrastructure
@@ -1106,7 +1095,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_gang_grip_level_up
 				add_manpower = -500
 				set_technology = { power_armour = 1 }
 				set_technology = { advanced_ballistic_weaponry = 1 }
@@ -1194,7 +1182,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_gang_grip_level_up
 				add_ideas=srhq
 				add_stability=0.10
 				add_manpower=500
@@ -1263,7 +1250,6 @@ default = no
 				available_if_capitulated = yes
 				completion_reward =
 				{
-				SKY_support_abroad_level_down
 			set_rule = { can_create_factions = yes }
 				}
 			}
@@ -1292,7 +1278,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_gang_grip_level_up
 				add_state_claim = 326
 				add_state_claim = 75
 				}
@@ -1494,7 +1479,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_gang_grip_level_down
 				load_oob = SKY_gang
 				}
 		}		
@@ -1505,10 +1489,6 @@ default = no
 			ai_will_do = { factor = 0 } 
 			x =18
 			y =4
-			
-			available = {
-			country_exists = GRA
-			}
 			
 			mutually_exclusive = {
 			focus = expand2
@@ -1523,8 +1503,8 @@ default = no
 					}
 			}
 				available_if_capitulated = yes  
-				completion_reward = {
-				SKY_support_abroad_level_up
+				completion_reward =
+				{
 				SKY = {
 				give_guarantee = GRA
 			}
@@ -1538,10 +1518,6 @@ default = no
 			y =5
 			available = {
 			has_manpower > 250
-			}
-		
-			available = {
-			country_exists = GRA
 			}
 			
 			cost = 8.6  
@@ -1609,9 +1585,6 @@ default = no
 			}
 			prerequisite = {
 			focus = reaveralliance
-			}
-			available = {
-			country_exists = GRA
 			}
 			bypass = {
 				GRA = { 
@@ -1834,7 +1807,6 @@ default = no
 			available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_gang_grip_level_up
 				add_state_claim = 425
 				add_state_claim = 220
 				}
@@ -1941,7 +1913,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_gang_grip_level_down
 				load_oob = SKY_gang
 				}
 		}
@@ -2086,7 +2057,6 @@ default = no
 			available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_gang_grip_level_up
 				add_state_claim = 204
 				add_state_claim = 373
 				add_state_claim = 72
@@ -2198,7 +2168,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_gang_grip_level_down
 				load_oob = SKY_gang
 				}
 		}
@@ -2335,9 +2304,6 @@ default = no
 			y =4
 
 			cost = 8.6  
-			available = {
-			country_exists = FRI
-			}
 			
 			mutually_exclusive = {
 			focus = expand4
@@ -2353,7 +2319,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_support_abroad_level_up
 				SKY = {
 				give_guarantee = FRI
 			}
@@ -2371,10 +2336,6 @@ default = no
 			}
 
 			cost = 8.6  
-			
-			available = {
-			country_exists = FRI
-			}
 			
 			prerequisite = {
 			focus = befriend3
@@ -2435,11 +2396,7 @@ default = no
 			x =32
 			y =7
 
-			cost = 8.6 
-
-			available = {
-			country_exists = FRI
-			}			
+			cost = 8.6  
 			
 			prerequisite = {
 			focus = befriend3.a
@@ -2646,9 +2603,6 @@ default = no
 			y =4
 
 			cost = 8.6  
-			available = {
-			country_exists = THO
-			}
 			
 			mutually_exclusive = {
 			focus = expand3
@@ -2664,7 +2618,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_support_abroad_level_up
 				SKY = {
 				give_guarantee = THO
 			}
@@ -2681,9 +2634,6 @@ default = no
 			has_manpower > 250
 			}
 
-			available = {
-			country_exists = THO
-			}
 			cost = 8.6  
 			
 			prerequisite = {
@@ -2744,11 +2694,7 @@ default = no
 			x =28
 			y =7
 
-			cost = 8.6 
-
-			available = {
-			country_exists = THO
-			}			
+			cost = 8.6  
 			
 			prerequisite = {
 			focus = befriend2.a
@@ -2981,7 +2927,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_support_abroad_level_down
 				add_political_power = 100
 				add_ideas =messagedelivered
 				
@@ -3013,7 +2958,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_support_abroad_level_down
 				add_political_power = 100
 				add_ideas = knowledge_areas
 				}
@@ -3031,12 +2975,11 @@ default = no
 			focus = fullfilled	
 			focus = delivered		
 			focus = reavers_reformed			
+			focus = d8
 			}
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_support_abroad_level_down
-				SKY_gang_grip_level_down
 				country_event = sky_events.17
 				hidden_effect = { remove_ideas = domination }
 				hidden_effect = { remove_ideas = sugarbread }
@@ -3071,8 +3014,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_gang_grip_level_up
-				SKY_people_love_level_up
 				set_cosmetic_tag = SKY_MONARCHY
 				add_stability = 0.075
 				add_war_support = 0.025
@@ -3099,8 +3040,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_support_abroad_level_up
-				SKY_people_love_level_up
 				set_cosmetic_tag = SKY_CITY
 				add_stability = 0.05
 				add_war_support = 0.05
@@ -3133,7 +3072,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_gang_grip_level_up
 				set_cosmetic_tag = SKY_REGIME
 				add_stability = -0.05
 				add_war_support = 0.15
@@ -3156,7 +3094,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_people_love_level_down
 				add_ideas = limited_conscription
 				}
 		}
@@ -3271,7 +3208,6 @@ default = no
 				available_if_capitulated = yes  
 				completion_reward =
 				{
-				SKY_people_love_level_down
 				add_ideas =war_economy
 				}
 		}
