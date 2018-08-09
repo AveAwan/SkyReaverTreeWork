@@ -1,3 +1,42 @@
 spriteTypes = { 
- 
+ 	spriteType = {
+		name = "GFX_focus_buildingtheskyreavers"
+		texturefile = "gfx/interface/focus/buildingtheskyreavers.dds"
+	}
+	spriteType = {
+		name = "GFX_focus_dealwiththehouse"
+		texturefile = "gfx/interface/focus/dealwiththehouse.dds"
+	}
+	spriteType = {
+		name = "GFX_focus_kronosambition3"
+		texturefile = "gfx/interface/focus/kronosambition3.dds"
+	}
+	spriteType = {
+		name = "GFX_focus_ncrdiplomacy"
+		texturefile = "gfx/interface/focus/ncrdiplomacy.dds"
+	}
+	spriteType = {
+		name = "GFX_focus_originsskyreavers"
+		texturefile = "gfx/interface/focus/originsskyreavers.dds"
+	}
+	spriteType = {
+		name = "GFX_focus_rangerdiplomacy"
+		texturefile = "gfx/interface/focus/rangerdiplomacy.dds"
+	}
+	spriteType = {
+		name = "GFX_focus_securityforvegas"
+		texturefile = "gfx/interface/focus/securityforvegas.dds"
+	}
+	spriteType = {
+		name = "GFX_focus_vegasdiplomacy"
+		texturefile = "gfx/interface/focus/vegasdiplomacy.dds"
+	}
+	spriteType = {
+		name = "GFX_focus_volunteerdeployment"
+		texturefile = "gfx/interface/focus/volunteerdeployment.dds"
+	}
+	spriteType = {
+		name = "GFX_focus_whoiskrono"
+		texturefile = "gfx/interface/focus/whoiskrono.dds"
+	}
  }

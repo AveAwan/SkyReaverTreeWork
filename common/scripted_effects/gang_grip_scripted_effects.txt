@@ -13,13 +13,6 @@ SKY_gang_grip_clear_all = {
 SKY_gang_grip_level_up = {
 	custom_effect_tooltip = SKY_gang_grip_tt
 	if = {
-		limit = { has_idea = SKY_gang_grip_5 }
-		swap_ideas = {
-			remove_idea = SKY_gang_grip_5
-			add_idea = SKY_gang_grip_5
-		}
-	}
-	else_if = {
 		limit = { has_idea = SKY_gang_grip_4 }
 		swap_ideas = {
 			remove_idea = SKY_gang_grip_4
@@ -58,10 +51,14 @@ SKY_gang_grip_level_down = {
 custom_effect_tooltip = SKY_gang_grip_down_tt
 	if = {
 		limit = { has_idea = SKY_gang_grip_1 }
-		swap_ideas = {
-			remove_idea = SKY_gang_grip_1
-			add_idea = SKY_gang_grip_1
+		#Makes the tooltip clearer if player looks at the effect early in the game
+		effect_tooltip = {
+			swap_ideas = {
+				remove_idea = SKY_gang_grip_1
+				add_idea = SKY_gang_grip_none
 			}
+		}
+		hidden_effect = { remove_ideas = SKY_gang_grip_1 }
 	}
 	if = {
 		limit = { has_idea = SKY_gang_grip_2 }
