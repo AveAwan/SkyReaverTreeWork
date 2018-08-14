@@ -20,10 +20,10 @@ SKY_support_abroad_level_up = {
 		}
 }
 	else_if = {
-		limit = { has_idea = SKY_gang_grip_4 }
+		limit = { has_idea = SKY_support_abroad_4 }
 		swap_ideas = {
-			remove_idea = SKY_gang_grip_4
-			add_idea = SKY_gang_grip_5
+			remove_idea = SKY_support_abroad_4
+			add_idea = SKY_support_abroad_5
 		}
 }
 	else_if = {
