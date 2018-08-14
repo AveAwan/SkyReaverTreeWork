@@ -29,36 +29,84 @@ SKY_gang_grip_down_tt:0 "The Reavers will grow restless over this."
 SKY_gang_grip_tt:0 "The Reavers grow ravenous and flex their jaws at this prospect."
 SKY_support_abroad_down_tt:0 "Your actions are being judged by your international peers; this will not please them."
 SKY_support_abroad_tt:0 "This will reflect positively on your government to the world at large."
-SKY_gang_grip_1:0 "Grip on the Gang - Open Revolt"
+SKY_gang_grip_1:0 "Grip on the Gang - Open Revolt V"
 SKY_gang_grip_1_desc:0 "The Gang has completely lost faith in you and your ability to lead them; they've grown restless, bored and tired, and refuse to fight on your behalf."
-SKY_gang_grip_2:0 "Grip on the Gang - Restless"
-SKY_gang_grip_2:0 "The Gang is having doubts about your leadership, and the lack of practice is making them weak."
-SKY_gang_grip_3:0 "Grip on the Gang - Sated"
-SKY_gang_grip_3_desc:0 "Their bellies are full and their blades are bloody; the gang is satisfied for now."
-SKY_gang_grip_4:0 "Grip on the Gang - Excitable"
-SKY_gang_grip_4_desc:0 "Sharpened blades, fresh blood, real challenges, good food, new toys; the Gang's ready for war."
-SKY_gang_grip_5:0 "Grip on the Gang - Rabid Dogs"
-SKY_gang_grip_5_desc:0 "Snapping, snarling, whirling, slicing, dashing, dancing; blood, give us blood!"
-SKY_people_love_1:0 "Love of the People - Tinpot Dictator"
+SKY_gang_grip_2:0 "Grip on the Gang - Open Revolt IV"
+SKY_gang_grip_2_desc:0 "The Gang has completely lost faith in you and your ability to lead them; they've grown restless, bored and tired, and refuse to fight on your behalf."
+SKY_gang_grip_3:0 "Grip on the Gang - Open Revolt III"
+SKY_gang_grip_3_desc:0 "The Gang has completely lost faith in you and your ability to lead them; they've grown restless, bored and tired, and refuse to fight on your behalf."
+SKY_gang_grip_4:0 "Grip on the Gang - Open Revolt II"
+SKY_gang_grip_4_desc:0 "The Gang has completely lost faith in you and your ability to lead them; they've grown restless, bored and tired, and refuse to fight on your behalf."
+SKY_gang_grip_5:0 "Grip on the Gang - Open Revolt"
+SKY_gang_grip_5_desc:0 "The Gang has completely lost faith in you and your ability to lead them; they've grown restless, bored and tired, and refuse to fight on your behalf."
+SKY_gang_grip_6:0 "Grip on the Gang - Restless"
+SKY_gang_grip_6:0 "The Gang is having doubts about your leadership, and the lack of practice is making them weak."
+SKY_gang_grip_7:0 "Grip on the Gang - Sated"
+SKY_gang_grip_7_desc:0 "Their bellies are full and their blades are bloody; the gang is satisfied for now."
+SKY_gang_grip_8:0 "Grip on the Gang - Excitable"
+SKY_gang_grip_8_desc:0 "Sharpened blades, fresh blood, real challenges, good food, new toys; the Gang's ready for war."
+SKY_gang_grip_9:0 "Grip on the Gang - Rabid Dogs"
+SKY_gang_grip_9_desc:0 "Snapping, snarling, whirling, slicing, dashing, dancing; blood, give us blood!"
+SKY_gang_grip_10:0 "Grip on the Gang - Rabid Dogs II"
+SKY_gang_grip_10_desc:0 "Snapping, snarling, whirling, slicing, dashing, dancing; blood, give us blood!"
+SKY_gang_grip_11:0 "Grip on the Gang - Rabid Dogs III"
+SKY_gang_grip_11_desc:0 "Snapping, snarling, whirling, slicing, dashing, dancing; blood, give us blood!"
+SKY_gang_grip_12:0 "Grip on the Gang - Rabid Dogs IV"
+SKY_gang_grip_12_desc:0 "Snapping, snarling, whirling, slicing, dashing, dancing; blood, give us blood!"
+SKY_gang_grip_13:0 "Grip on the Gang - Rabid Dogs V"
+SKY_gang_grip_13_desc:0 "Snapping, snarling, whirling, slicing, dashing, dancing; blood, give us blood!"
+SKY_people_love_1:0 "Love of the People - Tinpot Dictator V"
 SKY_people_love_1_desc:0 "You are hated by your population; they refuse to work for you and will not follow your edicts any longer."
-SKY_people_love_2:0 "Love of the People - Frightened"
-SKY_people_love_2_desc:0 "The populace is restless and afraid; they are reticent to follow your orders even under threat of violence."
-SKY_people_love_3:0 "Love of the People - Stable"
-SKY_people_love_3_desc:0 "The people of your territory are not sure what to think of you, and so are neither willing to help or eager to oppose."
-SKY_people_love_4:0 "Love of the People - Safe and Sound"
-SKY_people_love_4_desc:0 "You keep your people safe and happy; they are happy to help and will do as you ask, within reason."
-SKY_people_love_5:0 "Love of the People - Adoration and Worship"
-SKY_people_love_5_desc:0 "You have taken on a semi-divine status with your subjects; they will obey and work without question. You have saved them."
-SKY_support_abroad_1:0 "Support from Abroad - Pariah State"
+SKY_people_love_2:0 "Love of the People - Tinpot Dictator IV"
+SKY_people_love_2_desc:0 "You are hated by your population; they refuse to work for you and will not follow your edicts any longer."
+SKY_people_love_3:0 "Love of the People - Tinpot Dictator III"
+SKY_people_love_3_desc:0 "You are hated by your population; they refuse to work for you and will not follow your edicts any longer."
+SKY_people_love_4:0 "Love of the People - Tinpot Dictator II"
+SKY_people_love_4_desc:0 "You are hated by your population; they refuse to work for you and will not follow your edicts any longer."
+SKY_people_love_5:0 "Love of the People - Tinpot Dictator"
+SKY_people_love_5_desc:0 "You are hated by your population; they refuse to work for you and will not follow your edicts any longer."
+SKY_people_love_6:0 "Love of the People - Frightened"
+SKY_people_love_6_desc:0 "The populace is restless and afraid; they are reticent to follow your orders even under threat of violence."
+SKY_people_love_7:0 "Love of the People - Stable"
+SKY_people_love_7_desc:0 "The people of your territory are not sure what to think of you, and so are neither willing to help or eager to oppose."
+SKY_people_love_8:0 "Love of the People - Safe and Sound"
+SKY_people_love_8_desc:0 "You keep your people safe and happy; they are happy to help and will do as you ask, within reason."
+SKY_people_love_9:0 "Love of the People - Adoration and Worship"
+SKY_people_love_9_desc:0 "You have taken on a semi-divine status with your subjects; they will obey and work without question. You have saved them."
+SKY_people_love_10:0 "Love of the People - Adoration and Worship II"
+SKY_people_love_10_desc:0 "You have taken on a semi-divine status with your subjects; they will obey and work without question. You have saved them."
+SKY_people_love_11:0 "Love of the People - Adoration and Worship III"
+SKY_people_love_11_desc:0 "You have taken on a semi-divine status with your subjects; they will obey and work without question. You have saved them."
+SKY_people_love_12:0 "Love of the People - Adoration and Worship IV"
+SKY_people_love_12_desc:0 "You have taken on a semi-divine status with your subjects; they will obey and work without question. You have saved them."
+SKY_people_love_13:0 "Love of the People - Adoration and Worship V"
+SKY_people_love_13_desc:0 "You have taken on a semi-divine status with your subjects; they will obey and work without question. You have saved them."
+SKY_support_abroad_1:0 "Support from Abroad - Pariah State V"
 SKY_support_abroad_1_desc:0 "Your actions have made your government an enemy of the world; you are percieved as nothing more than rabid dogs waiting to be put down."
-SKY_support_abroad_2:0 "Support from Abroad - Barbarians"
-SKY_support_abroad_2_desc:0 "Percieved as little more than savages and raiders, outsiders believe your nation unworthy of trade or recognition."
-SKY_support_abroad_3:0 "Support from Abroad - Unknown"
-SKY_support_abroad_3_desc:0 "You are just another squabbling pretender state to the world at large; better than being hated, worse than being loved."
-SKY_support_abroad_4:0 "Support from Abroad - Trustworthy"
-SKY_support_abroad_4_desc:0 "Your actions have led to outsiders believing you to be worthy of their trust and trade."
-SKY_support_abroad_5:0 "Support from Abroad - Crowdpleaser"
-SKY_support_abroad_5_desc:0 "Schmoozing, dealing, daring and charming; you have the world on your side, and wrapped around your finger."
+SKY_support_abroad_2:0 "Support from Abroad - Pariah State IV"
+SKY_support_abroad_2_desc:0 "Your actions have made your government an enemy of the world; you are percieved as nothing more than rabid dogs waiting to be put down."
+SKY_support_abroad_3:0 "Support from Abroad - Pariah State III"
+SKY_support_abroad_3_desc:0 "Your actions have made your government an enemy of the world; you are percieved as nothing more than rabid dogs waiting to be put down."
+SKY_support_abroad_4:0 "Support from Abroad - Pariah State II"
+SKY_support_abroad_4_desc:0 "Your actions have made your government an enemy of the world; you are percieved as nothing more than rabid dogs waiting to be put down."
+SKY_support_abroad_5:0 "Support from Abroad - Pariah State"
+SKY_support_abroad_5_desc:0 "Your actions have made your government an enemy of the world; you are percieved as nothing more than rabid dogs waiting to be put down."
+SKY_support_abroad_6:0 "Support from Abroad - Barbarians"
+SKY_support_abroad_6_desc:0 "Percieved as little more than savages and raiders, outsiders believe your nation unworthy of trade or recognition."
+SKY_support_abroad_7:0 "Support from Abroad - Unknown"
+SKY_support_abroad_7_desc:0 "You are just another squabbling pretender state to the world at large; better than being hated, worse than being loved."
+SKY_support_abroad_8:0 "Support from Abroad - Trustworthy"
+SKY_support_abroad_8_desc:0 "Your actions have led to outsiders believing you to be worthy of their trust and trade."
+SKY_support_abroad_9:0 "Support from Abroad - Crowdpleaser"
+SKY_support_abroad_9_desc:0 "Schmoozing, dealing, daring and charming; you have the world on your side, and wrapped around your finger."
+SKY_support_abroad_10:0 "Support from Abroad - Crowdpleaser II"
+SKY_support_abroad_10_desc:0 "Schmoozing, dealing, daring and charming; you have the world on your side, and wrapped around your finger."
+SKY_support_abroad_11:0 "Support from Abroad - Crowdpleaser III"
+SKY_support_abroad_11_desc:0 "Schmoozing, dealing, daring and charming; you have the world on your side, and wrapped around your finger."
+SKY_support_abroad_12:0 "Support from Abroad - Crowdpleaser IV"
+SKY_support_abroad_12_desc:0 "Schmoozing, dealing, daring and charming; you have the world on your side, and wrapped around your finger."
+SKY_support_abroad_13:0 "Support from Abroad - Crowdpleaser V"
+SKY_support_abroad_13_desc:0 "Schmoozing, dealing, daring and charming; you have the world on your side, and wrapped around your finger."
 ############################## Beginning #####################################
 origins:0 "Origins of the Sky Reavers"
 raidergang:0 "Raider Gang"
@@ -238,6 +286,109 @@ monarchy_approach_desc:0 "With recent chaos coming to an end and public order be
 Gang_2:0 "Follow the Old Way"
 Gang_2_desc:0 "After the dealing with the blowout that Krono brought upon us, one thing is clear: the overzealous behaviour of the former leader of the Sky Reavers doomed them - and us. We need to return to our old lifestyle in order to ensure our survival. It's time that we show everyone our strength so that they will respect us once more."
 
+################################## Sky Reaver Republic ##############################################
+
+# Krono Republic Way Party Names
+
+Sky_ruler_5:0 "Krono Loyalists"
+Sky_ruler_5_long:0 "Krono Loyalists"
+Sky_elites_5:0 "Military Forces"
+Sky_elites_5_long:0 "Military Forces"
+Sky_people_5:0 "Citizens"
+Sky_people_5_long:0 "Citizens"
+Sky_intellectuals_5:0 "Middle Class Society"
+Sky_intellectuals_5_long:0 "Middle Class Society"
+
+# Focus Names
+
+Politics:0 "Political Turmoil"
+military:0 "Form a Military"
+Civil:0 "Form a Society"
+Agenda:0 "The Republic Agenda"
+
+elites_1:0 "To defend the Republic"
+
+elites_3:0 "A Matter of Discipline"
+elites_6:0 "The Republican Army"
+elites_7:0 "More than simple Foot Soldiers"
+elites_8:0 "Conquer the Skies"
+
+# Route towards Military Dictatorship
+
+elites_4:0 "A Matter of Control"
+elites_2:0 "A Soldier's Pride"
+elites_5:0 "Paternal Autocracy"
+
+ruler_1:0 "For a better tomorrrow"
+
+ruler_2:0 "Honest Hearts"
+ruler_5:0 "A Matter of Dedication"
+
+ruler_3:0 "Education Effort"
+ruler_4:0 "Business Rules"
+ruler_6:0 "Regulated Business"
+ruler_7:0 "Crystal Springs University"
+ruler_8:0 "Scientific Programs"
+
+# Critical Decisions
+
+Decision_1:0 "Economy Laws"
+Decision_2:0 "Uniform Code"
+
+intellectual_1:0 "Earning a living"
+intellectual_2:0 "An economic understanding"
+intellectual_3:0 "Crystal Springs Investments"
+
+# Route towards Business Conglomerate
+
+people_1:0 "A free Society"
+
+################################## Party Names ##############################################
+
+# Starting Names
+Sky_ruler_1:0 "Krono's Outfit"
+Sky_elites_1:0 "Johnson's Men"
+Sky_intellectuals_1:0 "Manning's Crew"
+Sky_people_1:0 "Crystal Springs City Council"
+
+# Krono Monarchy Way
+Sky_ruler_2:0 "Kronarch Loyalists"
+Sky_elites_2:0 "Viceroys"
+Sky_intellectuals_2:0 "Reformers"
+Sky_people_2:0 "Subjects"
+
+# Martucci Monarchy Way
+Sky_ruler_3:0 "Martucci Loyalists"
+
+# Darius Will Republic Way
+Sky_people_4:0 "Citizens"
+Sky_elites_4:0 "City Council"
+Sky_ruler_4:0 "Criminals"
+Sky_intellectuals_4:0 "Reavers Remnants"
+
+# Krono Republic Way
+Sky_ruler_5:0 "Krono Loyalists"
+Sky_ruler_5_long:0 "Krono Loyalists"
+Sky_elites_5:0 "Military Forces"
+Sky_elites_5_long:0 "Military Forces"
+Sky_people_5:0 "Citizens"
+Sky_people_5_long:0 "Citizens"
+Sky_intellectuals_5:0 "Middle Class Society"
+Sky_intellectuals_5_long:0 "Middle Class Society"
+
+# Martucci Crystal Springs Way
+Sky_ruler_6:0 "Bluecoats Gang"
+Sky_elites_6:0 "Martucci Family"
+Sky_intellectuals_6:0 "Coyotes"
+Sky_people_6:0 "Crystal Springs Mob"
+
+# Martucci Regime Way
+
+# Manning Regime Way
+
+# Manning Crystal Springs Way
+
+# Secret Way
 
 ################################## National Spirits ##############################################
 
