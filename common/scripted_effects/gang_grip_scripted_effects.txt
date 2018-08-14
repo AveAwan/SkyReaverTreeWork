@@ -13,12 +13,12 @@ SKY_gang_grip_clear_all = {
 SKY_gang_grip_level_up = {
 	custom_effect_tooltip = SKY_gang_grip_tt
 	if = {
-		limit = { has_idea = SKY_gang_grip_4 }
+		limit = { has_idea = SKY_gang_grip_5 }
 		swap_ideas = {
-			remove_idea = SKY_gang_grip_4
+			remove_idea = SKY_gang_grip_5
 			add_idea = SKY_gang_grip_5
 		}
-	}
+}
 	else_if = {
 		limit = { has_idea = SKY_gang_grip_3 }
 		swap_ideas = {
