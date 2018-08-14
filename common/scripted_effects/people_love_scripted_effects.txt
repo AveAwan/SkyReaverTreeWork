@@ -13,12 +13,12 @@ SKY_people_love_clear_all = {
 SKY_people_love_level_up = {
 	custom_effect_tooltip = SKY_people_love_tt
 	if = {
-		limit = { has_idea = SKY_people_love_4 }
+		limit = { has_idea = SKY_people_love_5 }
 		swap_ideas = {
-			remove_idea = SKY_people_love_4
+			remove_idea = SKY_people_love_5
 			add_idea = SKY_people_love_5
 		}
-	}
+}
 	else_if = {
 		limit = { has_idea = SKY_people_love_3 }
 		swap_ideas = {
