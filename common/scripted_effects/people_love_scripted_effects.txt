@@ -13,25 +13,82 @@ SKY_people_love_clear_all = {
 SKY_people_love_level_up = {
 	custom_effect_tooltip = SKY_people_love_tt
 	if = {
+		limit = { has_idea = SKY_people_love_12 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_12
+			add_idea = SKY_people_love_13
+		}
+	}
+	else_if = {
+		limit = { has_idea = SKY_people_love_11 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_11
+			add_idea = SKY_people_love_12
+		}
+	}
+	else_if = {
+		limit = { has_idea = SKY_people_love_10 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_10
+			add_idea = SKY_people_love_11
+		}
+	}
+	else_if = {
+		limit = { has_idea = SKY_people_love_9 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_9
+			add_idea = SKY_people_love_10
+		}
+	}
+	
+	else_if = {
+		limit = { has_idea = SKY_people_love_8 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_8
+			add_idea = SKY_people_love_9
+		}
+	}
+	else_if = {
+		limit = { has_idea = SKY_people_love_7 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_7
+			add_idea = SKY_people_love_8
+		}
+	}
+	else_if = {
+		limit = { has_idea = SKY_people_love_6 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_6
+			add_idea = SKY_people_love_7
+		}		
+	}
+	else_if = {
 		limit = { has_idea = SKY_people_love_5 }
 		swap_ideas = {
 			remove_idea = SKY_people_love_5
+			add_idea = SKY_people_love_6
+		}		
+	}
+	else_if = {
+		limit = { has_idea = SKY_people_love_4 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_4
 			add_idea = SKY_people_love_5
-		}
-}
+		}		
+	}
 	else_if = {
 		limit = { has_idea = SKY_people_love_3 }
 		swap_ideas = {
 			remove_idea = SKY_people_love_3
 			add_idea = SKY_people_love_4
-		}
+		}		
 	}
 	else_if = {
 		limit = { has_idea = SKY_people_love_2 }
 		swap_ideas = {
 			remove_idea = SKY_people_love_2
 			add_idea = SKY_people_love_3
-		}
+		}		
 	}
 	else_if = {
 		limit = { has_idea = SKY_people_love_1 }
@@ -86,6 +143,62 @@ custom_effect_tooltip = SKY_people_love_down_tt
 		swap_ideas = {
 			remove_idea = SKY_people_love_5
 			add_idea = SKY_people_love_4
+		}
+	}
+	if = {
+		limit = { has_idea = SKY_people_love_6 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_6
+			add_idea = SKY_people_love_5
+		}
+	}
+	if = {
+		limit = { has_idea = SKY_people_love_7 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_7
+			add_idea = SKY_people_love_6
+		}
+	}
+	if = {
+		limit = { has_idea = SKY_people_love_8 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_8
+			add_idea = SKY_people_love_7
+		}
+	}
+	if = {
+		limit = { has_idea = SKY_people_love_9 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_9
+			add_idea = SKY_people_love_8
+		}
+	}
+	if = {
+		limit = { has_idea = SKY_people_love_10 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_10
+			add_idea = SKY_people_love_9
+		}
+	}
+	if = {
+		limit = { has_idea = SKY_people_love_11 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_11
+			add_idea = SKY_people_love_10
+		}
+	}
+	if = {
+		limit = { has_idea = SKY_people_love_12 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_12
+			add_idea = SKY_people_love_11
+		}
+	}
+	if = {
+		limit = { has_idea = SKY_people_love_13 }
+		swap_ideas = {
+			remove_idea = SKY_people_love_13
+			add_idea = SKY_people_love_12
 		}
 	}
 }
