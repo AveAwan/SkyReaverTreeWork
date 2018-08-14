@@ -10,15 +10,22 @@ SKY_support_abroad_clear_all = {
 }
 
 #Important to put HIGHEST first
-SKY_support_abroad_level_up = {
-	custom_effect_tooltip = SKY_support_abroad_tt
+SKY_gang_grip_level_up = {
+	custom_effect_tooltip = SKY_gang_grip_tt
 	if = {
-		limit = { has_idea = SKY_support_abroad_4 }
+		limit = { has_idea = SKY_gang_grip_5 }
 		swap_ideas = {
-			remove_idea = SKY_support_abroad_4
-			add_idea = SKY_support_abroad_5
+			remove_idea = SKY_gang_grip_5
+			add_idea = SKY_gang_grip_5
 		}
 	}
+	else_if = {
+		limit = { has_idea = SKY_gang_grip_4 }
+		swap_ideas = {
+			remove_idea = SKY_gang_grip_4
+			add_idea = SKY_gang_grip_5
+		}
+}
 	else_if = {
 		limit = { has_idea = SKY_support_abroad_3 }
 		swap_ideas = {
